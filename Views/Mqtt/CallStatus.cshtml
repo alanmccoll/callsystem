@@ -1,0 +1,21 @@
+@{
+    Layout = null;
+}
+
+    
+{
+@{
+    int counter = ViewBag.mmap.Count;
+    @foreach (KeyValuePair<string, int> item in ViewBag.mmap)
+        {
+            @if (counter > 1)
+            {
+                <text>"@item.Key": @item.Value, </text>
+            }
+            else
+            {
+                <text>"@item.Key": @item.Value } </text>
+            }
+            counter = counter - 1;
+        }
+}

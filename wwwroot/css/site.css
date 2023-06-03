@@ -1,0 +1,45 @@
+html {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+body > div > div.main-text > p {
+  color:#2e2e2e;
+  font-size:larger;
+  font-family: Roboto, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+a, a:active :hover, a:visited, a:link {
+  color:rgb(28, 62, 196);
+  text-decoration: none;
+}
+img {
+  margin:2em;
+}
+body > div > div.main-text {
+  padding:2em;
+  }
+
+  nav {
+    background-color:#f0f0f0;
+    border-bottom:1px solid #afadad;
+  }
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+body {
+  margin-bottom: 60px;
+  /* overflow:hidden; */
+  background-color: #ededed;
+  background-image:url('../images/osd.png');
+  color: #222;
+
+}

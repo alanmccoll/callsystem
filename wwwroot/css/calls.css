@@ -1,0 +1,192 @@
+html {
+    background-color: black;
+}
+
+body {
+  overflow:hidden;
+}
+
+
+.container-fluid {
+    --bs-gutter-x:0px;
+  }
+  
+  @keyframes blinking {
+      10% {
+        fill:white;
+      }
+      100% {
+        fill: red;
+      }
+    }
+    /* #blink {
+      
+      animation: blinking 1s infinite;
+    } */
+  
+  .svg {
+    background-color:#000;
+  
+  }
+  
+  svg {
+    max-height:1050px;
+  }
+  
+    #db_afsm {
+      background-color:#000;
+      max-width: 100%;
+      max-height: 1024px;
+      display:flex; 
+      /* padding:.5em 0 .5em 0; */
+    }
+  
+    .blink {
+      /* height:1.1vw;
+      width:1.3vw; */
+      animation: blink-animation 1s steps(5, start) infinite;
+      -webkit-animation: blink-animation 1s steps(5, start) infinite;
+      background-color:#000;
+  
+    }
+    @keyframes blink-animation {
+      
+      0%		{ fill: #000;}
+      25%		{ fill: #000;}
+      50%		{ fill: #ef0a1a; fill-opacity: 1;}
+      75%		{ fill: #ff0000; fill-opacity: 1;}
+      100%	{ fill: #ff0000; fill-opacity: 1;}
+    }
+    @-webkit-keyframes blink-animation {
+        0%		{ fill: #000;}
+        25%		{ fill: #000;}
+        50%		{ fill: #ef0a1a; fill-opacity: 1;}
+        75%		{ fill: #ff0000; fill-opacity: 1;}
+        100%	{ fill: #ff0000; fill-opacity: 1;}
+    }
+  
+  
+    #clock-east {
+      position:absolute;
+      bottom:3em;
+      right:.5em;
+      max-width: 100%;
+      height: auto;
+      background-color:transparent;
+      color:#e2e07b;
+      font-size:3.5vw;
+      font-family:Roboto, Verdana, Geneva, Tahoma, sans-serif;
+    }
+    #clock-west {
+      position:absolute;
+      bottom:3em;
+      right:.5em;
+      max-width: 100%;
+      height: auto;
+      background-color:transparent;
+      color:#e2e07b;
+      font-size:3.5vw;
+      font-family:Roboto, Verdana, Geneva, Tahoma, sans-serif;
+    }
+  
+  /* 
+    Color Classes
+  */
+  
+     .maint {
+      fill:#52ACFF !important;
+      fill-opacity:1 !important;
+      stroke:#444 !important;
+      stroke-width: 0.3 !important;
+     }
+     
+     .normal-dbcs {
+      fill:#2a1100ff !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .red {
+      fill:#FF0000 !important;
+      /* fill-opacity:1 !important; */
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-afsm {
+      fill:#401d49d5 !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+     .normal-spss {
+      fill:#403136e4 !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-apbs {
+      fill:#572e59e3 !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-hops {
+      fill:#003a58e3 !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-atu {
+      fill:#5d0f2cff !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-uss {
+      fill:#251650eb !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.7 !important;
+     }
+  
+     .normal-hsts {
+      fill:#004149df !important;
+      fill-opacity:1 !important;
+      stroke:#ededed !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-dioss {
+      fill:#2f572eff !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-cioss {
+      fill:#093737ff !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     .normal-afcs {
+      fill:#403136e4 !important;
+      fill-opacity:1 !important;
+      stroke:#ffffff !important;
+      stroke-width: 0.5 !important;
+     }
+  
+     tspan  {
+      fill:#fff !important;
+      stroke:#000 !important;
+      stroke-width: 0.17 !important;
+     }
+  
+  

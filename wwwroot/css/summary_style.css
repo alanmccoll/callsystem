@@ -1,0 +1,76 @@
+/*Custom styleshhet
+*/
+body {
+    background-color: #ededed;
+    background-image:url('../images/osd.png');
+    color: #222;
+}
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-sm,
+.navbar>.container-md,
+.navbar>.container-lg,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    margin-left: 1.0em;
+}
+
+a.nav-link {
+    color:#ededed;
+    padding:2px;
+}
+
+.btn-nav {
+    margin-left:2em;
+}
+
+#clock-summary {
+    /* position:absolute;
+    bottom:10px;
+    right:30px; */
+    min-width:100px;
+    max-width: 100%;
+    height: auto;
+    /* background-color:rgb(124, 120, 120); */
+    color:#e2e07b;
+    font-size:2.5vw;
+  }
+
+  [class*="col-md"] {   /*WE USE * HERE */ 
+    background: rgb(190, 192, 201);
+    color: rgb(56, 56, 56);
+    border:1px #313030 solid;
+    padding:.5em;
+    text-align:center;
+}
+
+.summary-li {
+    list-style-type: none;
+    font-weight:600 ;
+}
+
+.row {
+    margin-left:0;
+    margin-right:0;
+    padding:0;
+    width:100%;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size:1.75em;
+    text-align: center;
+}
+/* For small screen */
+.row-striped:nth-of-type(odd){
+    background-color: #efefef;
+  }
+  
+  .row-striped:nth-of-type(even){
+    background-color: #ffffff;
+  }
+
+  .row .title {
+    color:rgb(26, 26, 26);
+  }

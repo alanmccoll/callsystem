@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Richmond Call System";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Richmond Call System</h1>
+    
+</div>
+<div class = "main-text">
+    <p>
+        This is the <strong>Richmond Call System.</strong>
+    </p>
+    <p>
+        This Call System is a .NET project which will run on any web server. When
+        a machine is in need of a Technician, a switch is turned on which changes the graphics
+        on a local server. Any web browser, or TV in browser mode, pointed to the server will display a layout of the 
+        plant depicting all sorting machines. The view of the plant is split into East and West
+        in order to simplify the graphics. The graphic representation of the plant is designed to be 
+        viewed best in a web browser at full screen (F11). This is how the TV displays are configured 
+        which are distributed on the workroom floor 
+        in areas where Technicians can monitor their machines for calls.</p>
+    <p>     
+        Here is a screenshot of the 'West' side of the plant with DIOSS-005
+        in need of Maintenance attention (the red box is flashing).
+    </p>
+    <div><img class="img-fluid mx-auto d-block" src="../images/call.png"></div>
+    <p>
+       It uses the <a href="https://mqtt.org">MQTT messaging protocol</a> to subscribe to 'topics' 
+       and listen for those messages.
+    </p>
+    <p>
+        These messages are currently sent over a TCP/IP network by two single board PCs, one located in the East
+        part of the plant and the other in the West, which monitor physical inputs
+        controlled by toggle switches on each of our DBCS, DIOSS, CIOSS and AFCS letter sorting machines.
+        We plan to replace the single board PC / toggle switch mechanism with 'Quuppa QT3-1' tags. The tags are part of the larger SELS sytem. 
+        The SELS server will send an MQTT message when a QT3-1 button push is detected and our Call System will change
+        the graphics on the webserver to indicate that the machine is in need of a Technician.
+    </p>
+    <p>
+        We are still testing this system but believe that it should be fairly easy and inexpensive to reproduce at other sites 
+        which use the SELS system.
+    </p>
+    <p>
+        If you have a comment or suggestion, I can be reached at <a href="mailto:alan.p.mccoll@usps.gov">alan.p.mccoll@usps.gov</a>
+    </p>
+      <p>
+        <h3><em>Alan McColl<br/>Electronic Technician<br/>Sandston, VA</em></h3>
+      </p> 
+
+            
+    </p>
+</div>
+@section scripts {
+<script>
+    // using this to call MQTT function which subscribes and then listens for calls
+    // this should be changed to something less clunky
+    $(document).ready(function() {
+        $.ajax({
+            type: "POST",
+            url: "/Mqtt/Index",
+            success: function (response) {
+                $(response).each(function() {
+                    //console.log("Hello there, I called MQTT .. ");
+                })
+            },
+            failure: function (response) {
+                console.log(response.responseText)
+            }
+        })
+    })
+</script>
+}

@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/maint/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/obj/Debug/net7.0/scopedcss/projectbundle/CallSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets/CallSystem.bundle.scp.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/css/calls.css",
+      "PackagePath": "staticwebassets/css/calls.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/css/summary_style.css",
+      "PackagePath": "staticwebassets/css/summary_style.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto-Medium.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/.uuid",
+      "PackagePath": "staticwebassets/fonts/roboto/.uuid"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/.uuid",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/.uuid"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-Bold.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-Italic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-Light.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-LightItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-Medium.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoCondensed-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoCondensed-Regular.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/.uuid",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/.uuid"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-Black.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-BlackItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-Bold.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-BoldItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-Italic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-Light.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-LightItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-Medium.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-MediumItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-Regular.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-Thin.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/fonts/roboto/unhinted/RobotoTTF/Roboto-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/roboto/unhinted/RobotoTTF/Roboto-ThinItalic.ttf"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/images/call.png",
+      "PackagePath": "staticwebassets/images/call.png"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/images/osd.png",
+      "PackagePath": "staticwebassets/images/osd.png"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/js/combined.js",
+      "PackagePath": "staticwebassets/js/combined.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/js/summary.js",
+      "PackagePath": "staticwebassets/js/summary.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.old",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.old"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/maint/Projects/webapps/CallSystem/CallSystem/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.CallSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.CallSystem.props",
+      "PackagePath": "build\\CallSystem.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CallSystem.props",
+      "PackagePath": "buildMultiTargeting\\CallSystem.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CallSystem.props",
+      "PackagePath": "buildTransitive\\CallSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
