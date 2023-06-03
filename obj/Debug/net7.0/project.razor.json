@@ -18698,6 +18698,11 @@
       "FilePath": "/home/maint/Projects/webapps/CallSystem/CallSystem/Views/Time/Index.cshtml",
       "TargetPath": "Views\\Time\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/maint/Projects/webapps/CallSystem/CallSystem/Views/Mqtt/CallsFormatted.cshtml",
+      "TargetPath": "Views\\Mqtt\\CallsFormatted.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"

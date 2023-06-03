@@ -1,0 +1,20 @@
+@{
+    Layout = null;
+}
+
+    
+[ @{
+    int counter = ViewBag.mmap.Count;
+    @foreach (KeyValuePair<string, int> item in ViewBag.mmap)
+        {
+            @if (counter > 1)
+            {
+                <text>{"GpioStatus":@item.Value, "Machineid":"@item.Value"}, </text>
+            }
+            else
+            {
+                <text>{"GpioStatus":@item.Value, "Machineid":"@item.Value"} </text>
+            }
+            counter = counter - 1;
+    }
+} ]

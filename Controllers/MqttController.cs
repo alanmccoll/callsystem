@@ -142,6 +142,11 @@ namespace CallSystem.Models
             ViewBag.mmap = mmap;
             return View(); 
         } 
+        public IActionResult CallsFormatted()
+        {              
+            ViewBag.mmap = mmap;
+            return View(); 
+        } 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
