@@ -9,11 +9,11 @@
         {
             @if (counter > 1)
             {
-                <text>{"GpioStatus":@item.Value, "Machineid":"@item.Value"}, </text>
+                <text>{"GpioStatus":@item.Value, "Machineid":"@item.Key"}, </text>
             }
             else
             {
-                <text>{"GpioStatus":@item.Value, "Machineid":"@item.Value"} </text>
+                <text>{"GpioStatus":@item.Value, "Machineid":"@item.Key"} </text>
             }
             counter = counter - 1;
     }

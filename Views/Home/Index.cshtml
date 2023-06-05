@@ -11,10 +11,14 @@
         This is the <strong>Richmond Call System.</strong>
     </p>
     <p>
-        This Call System is a .NET project which will run on any web server. When
-        a machine is in need of a Technician, a switch is turned on which changes the graphics
-        on a local server. Any web browser, or TV in browser mode, pointed to the server will display a layout of the 
-        plant depicting all sorting machines. The view of the plant is split into East and West
+        This Call System is a .NET project, written in C#, which will run on any web server. When
+        a machine is in need of a Technician, a switch is turned on at the machine which changes the graphics
+        on the local web server. When a call switch is turned on, the graphic representation of that machine will 
+        change colors to red and begin to flash. Any web browser, or TV in browser mode, pointed to the server,
+        will display the graphic layout of the plant depicting all sorting machines.
+    </p>
+    <p>
+        The view of the plant is split into East and West
         in order to simplify the graphics. The graphic representation of the plant is designed to be 
         viewed best in a web browser at full screen (F11). This is how the TV displays are configured 
         which are distributed on the workroom floor 
@@ -25,7 +29,7 @@
     </p>
     <div><img class="img-fluid mx-auto d-block" src="../images/call.png"></div>
     <p>
-       It uses the <a href="https://mqtt.org">MQTT messaging protocol</a> to subscribe to 'topics' 
+       The system uses the <a href="https://mqtt.org">MQTT messaging protocol</a> to subscribe to 'topics' 
        and listen for those messages.
     </p>
     <p>
